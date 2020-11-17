@@ -2,3 +2,4 @@
 versioonihalduse harjutamine
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests.
 GitHubi saan kasutada edaspidi versioonihalduse harjutamiseks ja saan kasutada seda tundides kus on vaja.
+GitHub asutati April 10, 2008 ja asutajad olid: 	Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, Scott Chacon
